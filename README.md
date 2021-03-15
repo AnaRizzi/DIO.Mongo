@@ -1,4 +1,8 @@
-# dotnet-mongo
+# Aplicação de .NET com Mongo
+
+Código da aula "Construindo um projeto de uma API.NET integrada ao MongoDB" da DIO
+
+## dotnet-mongo
 
 Exemplo de aplicação .net core com mongodb.
 
